@@ -19,7 +19,7 @@ This project employs a systematic approach to analyze COVID-19 death data throug
 
 **Data Load:**
 
-- Load the dataset into a suitable data structure for analysis.
+- Loaded the dataset into a suitable data structure for analysis.
 
 **Data Exploration:**
 
@@ -28,22 +28,22 @@ This project employs a systematic approach to analyze COVID-19 death data throug
 
 **Data Cleaning:**
 
-- Drop unnecessary columns to streamline the dataset.
-- Remove null values to maintain data integrity.
+- Dropped unnecessary columns to streamline the dataset.
+- Removed null values to maintain data integrity.
 
 **Data Wrangling:**
 
-- Add new columns for each desired year, summing values from respective date columns.
-- Drop original date columns after data aggregation.
+- Added new columns for each desired year, summing values from respective date columns.
+- Dropped original date columns after data aggregation.
 
 **Data Analysis:**
 
-- Conduct descriptive statistics to summarize data.
-- Create a correlation matrix to identify relationships between the features.
+- Conducted descriptive statistics to summarize data.
+- Created a correlation matrix to identify relationships between the features.
 
 **Impact**
 
-•	Enhanced understanding of COVID-19 death trends across different regions.
-•	Informed public health strategies by identifying high-risk areas and patterns.
-•	Contributed to resource allocation and targeted interventions based on localized data.
+- Enhanced understanding of COVID-19 death trends across different regions.
+- Informed public health strategies by identifying high-risk areas and patterns.
+- Contributed to resource allocation and targeted interventions based on localized data.
 
