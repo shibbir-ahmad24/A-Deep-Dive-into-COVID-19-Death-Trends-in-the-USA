@@ -1,1 +1,1 @@
-# Data-Analysis-on-COVID-19-Death-Cases-of-USA
+# Decoding the Impact: A Deep Dive into COVID-19 Death Trends in the USA
