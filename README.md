@@ -39,11 +39,23 @@ This project employs a systematic approach to analyze COVID-19 death data throug
 **Data Analysis:**
 
 - Conducted descriptive statistics to summarize data.
-- Created a correlation matrix to identify relationships between the features.
+- Created a correlation matrix heatmap to identify relationships between the features.
+
 
 **Impact**
 
-- Enhanced understanding of COVID-19 death trends across different regions.
-- Informed public health strategies by identifying high-risk areas and patterns.
-- Contributed to resource allocation and targeted interventions based on localized data.
+**Enhanced Public Health Understanding**
+- Provides insights into COVID-19 death trends, aiding health officials in identifying vulnerable regions.
+
+**Data-Driven Decision Making**
+- Empowers stakeholders to formulate effective strategies for virus mitigation and response.
+  
+**Resource Allocation Optimization**
+- Enables targeted resource distribution to high-risk areas for effective public health measures.
+
+**Informed Community Engagement**
+- Supports community leaders in communicating risks and preventive measures to the public.
+
+**Contribution to Knowledge**
+- Advances academic understanding and serves as a blueprint for future public health data analyses.
 
