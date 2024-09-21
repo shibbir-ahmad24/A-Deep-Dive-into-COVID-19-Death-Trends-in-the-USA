@@ -61,7 +61,7 @@ This project employs a systematic approach to analyze COVID-19 death data throug
 
 
 ### **Dataset Source:**
-- [CSSE COVID-19 Dataset]([https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset/](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports_us))
+- ![CSSE COVID-19 Dataset]([https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset/](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports_us))
 
 ### **Data:**
 
