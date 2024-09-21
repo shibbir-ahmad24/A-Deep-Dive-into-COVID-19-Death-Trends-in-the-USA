@@ -73,7 +73,7 @@ The dataset encompasses daily death case records spanning from 2020 to 2023, fea
 - Admin2: County name.
 - Population: Population of the specific county in the US.
 
-### **Programming Language & Libraries:**
+### **Programming Language:**
 - Python
 
 ### **Libraries:**
