@@ -42,7 +42,7 @@ This project employs a systematic approach to analyze COVID-19 death data throug
 - Created a correlation matrix heatmap to identify relationships between the features.
 
 
-**Impact**
+### **Impact:**
 
 **Enhanced Public Health Understanding**
 - Provides insights into COVID-19 death trends, aiding health officials in identifying vulnerable regions.
