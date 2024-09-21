@@ -84,21 +84,29 @@ To install the required libraries, we can use pip. Run the following commands in
 These libraries are essential for data manipulation, statistical analysis, and visualization.
 
 ### **Analysis Visuals:**
--
-- Each county is represented by a bubble; size and color indicate death count.
--
-- Visualization highlights states with the highest death cases, including New York and New Jersey.
--
-- Highlights states like Arizona and California with the highest averages.
--
-- Double-clicking on a state shows a histogram representing average COVID-19 deaths across counties.
--
-- Displays top counties in New York with the highest death rates.
--
-- Clickable map showing death counts for cities within selected states.
-- 
-- Visualizes the percentage of COVID-19 deaths by state for the year 2022.
+![image1](https://github.com/shibbir282/A-Deep-Dive-into-COVID-19-Death-Trends-in-the-USA/blob/main/Analysis%20Visuals/Picture1.png)
+![image2](https://github.com/shibbir282/A-Deep-Dive-into-COVID-19-Death-Trends-in-the-USA/blob/main/Analysis%20Visuals/Picture2.png)
+- Each county is represented by a bubble on the map, where the size and color of the bubble indicate the death count for that county.
 
+![image3](https://github.com/shibbir282/A-Deep-Dive-into-COVID-19-Death-Trends-in-the-USA/blob/main/Analysis%20Visuals/Picture3.png)
+![image4](https://github.com/shibbir282/A-Deep-Dive-into-COVID-19-Death-Trends-in-the-USA/blob/main/Analysis%20Visuals/Picture4.png)
+- Here, we see that most number of people died in 2020 in the state of New York, New Jersey, California and Texas.
+
+![image5](https://github.com/shibbir282/A-Deep-Dive-into-COVID-19-Death-Trends-in-the-USA/blob/main/Analysis%20Visuals/Picture5.png)
+- From the figure, we see that the highest average number of COVID-19 deaths cases in 2022 are in the state of Arizona, California, New Jersey.
+
+![image6](https://github.com/shibbir282/A-Deep-Dive-into-COVID-19-Death-Trends-in-the-USA/blob/main/Analysis%20Visuals/Picture6.png)
+- Double-clicking on a state shows a histogram representing average COVID-19 death cases across counties.
+
+![image7](https://github.com/shibbir282/A-Deep-Dive-into-COVID-19-Death-Trends-in-the-USA/blob/main/Analysis%20Visuals/Picture7.png)
+- Displays top ten counties in New York with the highest death rates.
+
+![image8](https://github.com/shibbir282/A-Deep-Dive-into-COVID-19-Death-Trends-in-the-USA/blob/main/Analysis%20Visuals/Picture8.png)
+![image9](https://github.com/shibbir282/A-Deep-Dive-into-COVID-19-Death-Trends-in-the-USA/blob/main/Analysis%20Visuals/Picture9.png)
+- Clickable map showing death cases counts for cities within the selected states.
+
+![image10](https://github.com/shibbir282/A-Deep-Dive-into-COVID-19-Death-Trends-in-the-USA/blob/main/Analysis%20Visuals/Picture10.png)
+- Visualizes the percentage of COVID-19 deaths by state for the year 2022.
 
 ### **Summary of Insights:**
 
